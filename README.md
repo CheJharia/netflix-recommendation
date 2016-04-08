@@ -1,5 +1,5 @@
 # netflix-recommendation
 
-## Implementing Collaborative Filtering for movie Ratings and doing recommendataions
+1)Implementing Collaborative Filtering for movie Ratings and doing recommendataions
 
-## Implementing a tree method from paper for imputing 
+2)Implementing a tree method from paper for imputing 
